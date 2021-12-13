@@ -1,0 +1,12 @@
+{
+  "0": ["I just applied the changes, {name}.", "Done!", "I have sucessfully reloaded all the modules.", "The system is now ready again, {name}."],
+  "1": ["Hey {name}!", "How can I help you?", "Hi there, what can I do for you?", "Hi {name}!", "Hello {name}!"],
+  "2": ["I just turned the lights on, {name}.", "Done.", "Okay.", "Light strip is on!"],
+  "3": ["Done.", "Sure.", "Turning the lights off...", "{name}, I just turned the light strip off."],
+  "4": ["Turning the lamp on...", "Done.", "{name}, I just turned the lamp on.", "Okay."],
+  "5": ["Sure.", "I just turned the lamp off, {name}.", "The lamp is off now.", "Done."],
+  "6": ["Tuning off all lights...", "Done.", "Plugs and lights are now off.", "All the lights have been turned off, {name}."],
+  "7": ["There was a {score:.0%} probability for your previous request.", "I am {score:.0%} confident I did the right thing."],
+  "8": ["Sure, {name}.", "Here's the photo.", "I just took this picture.", "Here it is, {name}."],
+  "9": ["Sure, {name}.", "Here's the clip.", "I just shoot this video.", "Here it is, {name}."]
+}

@@ -1,0 +1,46 @@
+Reset the bot's capabilities 0
+Can you reload all the features? 0
+Please, retrain the intention model 0
+Reload the smart plugs 0
+Try to load the light strip again 0
+Train the intention model from scratch 0
+Hi there! 1
+Hey, how is it going? 1
+How are you? 1
+What's up? 1
+Hey there! 1
+How are you doing? 1
+Turn the bedroom lights on 2
+Can you please turn on the lights in my bedroom? 2
+Turn the light strip on 2
+Light up my bedroom 2
+Turn off the bedroom lights 3
+Turn the bedroom lights off 3
+Please turn the bedroom lights off 3
+Turn the light strip off 3
+Turn of my bedroom's lights 3
+Turn the lamp on 4
+Can you turn on the lamp, please? 4
+Turn the smart plug on for the lamp 4
+Turn on the lamp 4
+Turn the lamp off 5
+Please turn off the lamp 5
+Turn off the smart plug for the lamp 5
+Can you turn the lamp off? 5
+Turn all the lights off 6
+Lights out! 6
+Switch all the lights off 6
+Please turn all the lights off 6
+How sure are you of your latest action? 7
+What is the probability of your intention prediction? 7
+How certain are you of my request? 7
+What was the probability of your action? 7
+Are you confident about that action? 7
+Take a photo of my bedroom 8
+Can you take a picture of my room 8
+Use the camera to show me my bedroom 8
+Please, send me a photo of my bedroom 8
+Capture a video of my bedroom 9
+Can you send me a clip of my room 9
+Use the camera to shoot my bedroom 9
+Please, send me a video of my bedroom 9
